@@ -8,7 +8,7 @@ import { dateFormatted } from '../util/date'
 import './SinglePost.css'
 
 export default ({ fields, nextPostURL, prevPostURL }) => {
-  const { title, date, postFeaturedImage, body, categories = [] } = fields
+  const { title, date, postFeaturedImage, body } = fields
   return (
     <article className="SinglePost section light">
       {postFeaturedImage && (
@@ -25,12 +25,6 @@ export default ({ fields, nextPostURL, prevPostURL }) => {
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
-            {!!categories.length &&
-              categories.map(obj => (
-                <span key={obj.category} className="SinglePost--Meta--Category">
-                  {obj.category}
-                </span>
-              ))}
             {date && (
               <span className="SinglePost--Meta--Date">
                 {dateFormatted(date)}
