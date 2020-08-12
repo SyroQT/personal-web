@@ -1,9 +1,9 @@
 ---
 title: Contact Me
 featuredImage: /images/uploads/mark-chang-74-3.jpg
-subtitle: In case any questions arises
+subtitle: In case any question arises
 address: Vilnius Lithuania
-phone: "-"
+phone: ""
 email: titas.januson@gmail.com
 ---
 
