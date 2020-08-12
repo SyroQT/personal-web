@@ -4,6 +4,7 @@ import '../src/globalStyles.css'
 import data from '../src/data.json'
 import Home from '../src/views/Home'
 import About from '../src/views/About'
+import Tutoring from '../src/views/Tutoring'
 import Contact from '../src/views/Contact'
 import Blog from '../src/views/Blog'
 import Projects from '../src/views/Projects'
@@ -31,6 +32,9 @@ CMS.registerPreviewTemplate('home-page', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('about-page', ({ entry }) => (
   <About fields={entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('tutoring-page', ({ entry }) => (
+  <Tutoring fields={entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <Contact fields={entry.toJS().data} siteTitle={globalSettings.siteTitle} />

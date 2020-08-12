@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-# display_url: https://netlify-cms-react-starter.netlify.com # This url will display in the top-right of the CMS
+display_url: site_url # This url will display in the top-right of the CMS
 media_folder: "public/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
@@ -152,6 +152,41 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
+      - file: "content/pages/tutoring.md"
+        label: "Tutoring Page"
+        name: "tutoring-page"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Section 1, name: section1, widget: markdown }
+          - { label: Section 2, name: section2, widget: markdown }
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                  pattern: [".{,300}", "Must not exceed 300 characters"],
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
+
       - file: "content/pages/home.md"
         label: "Home Page"
         name: "home-page"
@@ -242,7 +277,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
   - name: projects
-    label: Post
+    label: Projects
     editor:
       preview: true
     folder: content/projects

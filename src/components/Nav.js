@@ -18,7 +18,10 @@ export default ({ handlePopupOpen }) => (
         Projects
       </NavLink>
       <NavLink to="/blog/" exact>
-        Blog
+        Blog'as 500
+      </NavLink>
+      <NavLink to="/tutoring/" exact>
+        Akademinė pagalba
       </NavLink>
       <NavLink to="/about/" exact>
         About
