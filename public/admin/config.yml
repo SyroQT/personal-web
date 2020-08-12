@@ -20,11 +20,21 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
           - { label: Body, name: body, widget: markdown }
-          - { label: Address, name: address, widget: text }
-          - { label: Phone, name: phone, widget: string }
-          - { label: Email Address, name: email, widget: string }
+          - { label: Address, name: address, widget: text, required: false }
+          - { label: Phone, name: phone, widget: string, required: false }
+          - {
+              label: Email Address,
+              name: email,
+              widget: string,
+              required: false,
+            }
           - label: "Meta"
             required: false
             name: "meta"
@@ -57,7 +67,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
           - label: "Meta"
             required: false
             name: "meta"
@@ -90,7 +105,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
           - label: "Meta"
             required: false
             name: "meta"
@@ -123,7 +143,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
           - { label: Section 1, name: section1, widget: markdown }
           - { label: Section 2, name: section2, widget: markdown }
           - label: "Meta"
@@ -158,7 +183,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
           - { label: Section 1, name: section1, widget: markdown }
           - { label: Section 2, name: section2, widget: markdown }
           - label: "Meta"
@@ -193,7 +223,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
           - { label: Body, name: body, widget: markdown }
           - label: "Meta"
             required: false
@@ -242,7 +277,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: image,
           required: false,
         }
-      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Excerpt, name: excerpt, widget: text, required: false }
       - { label: Content, name: body, widget: markdown }
       - label: "Categories"
         name: "categories"
@@ -297,7 +332,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: image,
           required: false,
         }
-      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Excerpt, name: excerpt, widget: text, required: false }
       - { label: Content, name: body, widget: markdown }
       - label: "Categories"
         name: "categories"
