@@ -6,6 +6,7 @@ import Home from '../src/views/Home'
 import About from '../src/views/About'
 import Contact from '../src/views/Contact'
 import Blog from '../src/views/Blog'
+import Projects from '../src/views/Projects'
 import SinglePost from '../src/views/SinglePost'
 
 console.log('React version', React.version)
@@ -17,11 +18,12 @@ CMS.registerPreviewStyle(
 CMS.registerPreviewStyle('/admin/cms.bundle.css')
 
 const getDocument = (collection, name) =>
-  data[collection] && data[collection].filter(page => page.name === name)[0]
+  data[collection] && data[collection].filter((page) => page.name === name)[0]
 const getDocuments = (collection, name) => data[collection]
 
 const globalSettings = getDocument('settings', 'global')
 const posts = getDocuments('posts')
+const projects = getDocuments('projects')
 
 // Preview Templates
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
@@ -36,7 +38,13 @@ CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
 CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
   <Blog fields={entry.toJS().data} posts={posts} />
 ))
+CMS.registerPreviewTemplate('projects-page', ({ entry }) => (
+  <Projects fields={entry.toJS().data} posts={projects} />
+))
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
+  <SinglePost fields={entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('projects', ({ entry }) => (
   <SinglePost fields={entry.toJS().data} />
 ))
 

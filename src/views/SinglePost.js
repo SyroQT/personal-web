@@ -7,7 +7,7 @@ import BackgroundImage from '../components/BackgroundImage'
 import { dateFormatted } from '../util/date'
 import './SinglePost.css'
 
-export default ({ fields, nextPostURL, prevPostURL }) => {
+export default ({ fields, nextPostURL, prevPostURL, link }) => {
   const { title, date, postFeaturedImage, body } = fields
   return (
     <article className="SinglePost section light">
@@ -20,7 +20,7 @@ export default ({ fields, nextPostURL, prevPostURL }) => {
       )}
 
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
+        <Link className="SinglePost--BackButton" to={link}>
           <ChevronLeft /> BACK
         </Link>
         <div className="SinglePost--Content relative">

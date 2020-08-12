@@ -7,6 +7,7 @@ import Meta from './components/Meta'
 import Home from './views/Home'
 import About from './views/About'
 import Blog from './views/Blog'
+import Projects from './views/Projects'
 import SinglePost from './views/SinglePost'
 import Contact from './views/Contact'
 import NoMatch from './views/NoMatch'
@@ -52,6 +53,9 @@ class App extends Component {
 
     const posts = this.getDocuments('posts').filter(
       (post) => post.status !== 'Draft'
+    )
+    const projects = this.getDocuments('projects').filter(
+      (project) => project.status !== 'Draft'
     )
 
     return (
@@ -109,6 +113,13 @@ class App extends Component {
               fields={this.getDocument('pages', 'blog')}
               posts={posts}
             />
+            <RouteWithMeta
+              path="/projects/"
+              exact
+              component={Projects}
+              fields={this.getDocument('pages', 'projects')}
+              posts={projects}
+            />
 
             {posts.map((post, index) => {
               const path = slugify(`/blog/${post.title}`)
@@ -119,10 +130,52 @@ class App extends Component {
                   key={path}
                   path={path}
                   exact
-                  component={SinglePost}
+                  component={() => (
+                    <SinglePost
+                      fields={post}
+                      nextPostURL={
+                        nextPost && slugify(`/blog/${nextPost.title}/`)
+                      }
+                      prevPostURL={
+                        prevPost && slugify(`/blog/${prevPost.title}/`)
+                      }
+                      link={'/blog/'}
+                    />
+                  )}
                   fields={post}
                   nextPostURL={nextPost && slugify(`/blog/${nextPost.title}/`)}
                   prevPostURL={prevPost && slugify(`/blog/${prevPost.title}/`)}
+                />
+              )
+            })}
+            {projects.map((project, index) => {
+              const path = slugify(`/projects/${project.title}`)
+              const nextPost = projects[index - 1]
+              const prevPost = projects[index + 1]
+              return (
+                <RouteWithMeta
+                  key={path}
+                  path={path}
+                  exact
+                  component={() => (
+                    <SinglePost
+                      fields={project}
+                      nextPostURL={
+                        nextPost && slugify(`/projects/${nextPost.title}/`)
+                      }
+                      prevPostURL={
+                        prevPost && slugify(`/projects/${prevPost.title}/`)
+                      }
+                      link={'/projects/'}
+                    />
+                  )}
+                  fields={project}
+                  nextPostURL={
+                    nextPost && slugify(`/projects/${nextPost.title}/`)
+                  }
+                  prevPostURL={
+                    prevPost && slugify(`/projects/${prevPost.title}/`)
+                  }
                 />
               )
             })}

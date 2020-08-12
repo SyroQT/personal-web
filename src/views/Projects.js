@@ -18,7 +18,7 @@ export default ({ fields, posts = [], showFeatured = true }) => {
         backgroundImage={featuredImage}
       />
 
-      {!!posts.length && <PostSection posts={posts} link="/blog/" />}
+      {!!posts.length && <PostSection posts={posts} link={'/projects/'} />}
     </main>
   )
 }
