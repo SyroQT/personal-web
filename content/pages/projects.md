@@ -1,5 +1,5 @@
 ---
-title: Blog'as 500
+title: My projects
 featuredImage: /images/uploads/unsplash4.jpg
-subtitle: Šauni citata apie gyvenimą
+subtitle: All of my free time
 ---
