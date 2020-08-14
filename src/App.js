@@ -1,4 +1,4 @@
-import React, { Component, Fragment, useState } from 'react'
+import React, { Fragment, useState } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
 
@@ -32,7 +32,15 @@ const RouteWithMeta = ({ component: Component, ...props }) => (
 )
 
 const App = () => {
-  const [data, setData] = useState(OGdata)
+  //State
+  const [data] = useState(OGdata)
+  const [isMenuOpen, setIsMenuOpen] = useState(false)
+
+  //Handlers
+  const menuClickHandler = () => {
+    console.log(isMenuOpen)
+    setIsMenuOpen(!isMenuOpen)
+  }
 
   const getDocument = (collection, name) =>
     data[collection] && data[collection].filter((page) => page.name === name)[0]
@@ -75,7 +83,7 @@ const App = () => {
           }
         />
 
-        <Nav />
+        <Nav menu={isMenuOpen} clickHandler={menuClickHandler} />
 
         <Switch>
           <RouteWithMeta

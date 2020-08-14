@@ -14,11 +14,11 @@
 .Nav .Logo {
   margin-right: 3rem;
 }
-/* @media (max-width: 500px) {
+@media (max-width: 500px) {
   .Nav--Container {
     display: none;
   }
   .Logo {
     display: block;
   }
-} */
+}
