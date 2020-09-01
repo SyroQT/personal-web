@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 
 import Logo from '../Logo'
 import NavLink from '../NavLink'
-import NavMenu from './NavMenu'
 import '../Nav.css'
 import classes from './LinkList.module.css'
 
