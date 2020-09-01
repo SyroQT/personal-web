@@ -1,19 +1,23 @@
 ---
 title: About page title
 featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+section1: >
+  
+  # Who am I?
 
-  Netlify CMS works with both `.md` and `.json`.
+  I am Titas Janusonis also known as SyroQT. Currently I am studying Computer Science in the UK. I was born and raised in the capital of Lithuania - Vilnius. I fell in love with this city and am planning to go back after my studies. 
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
+  Some of my hobbies include:
 
-  [Link test](/images/uploads/isabella juskova.jpg)
+  - Photography 
 
-  ### Embed Test
+  - Philosophy 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  - Reading 
 
+  - Economics
+
+  - Physiology
 section2: |-
   ## This is a Container component
 
