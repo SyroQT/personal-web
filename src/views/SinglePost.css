@@ -6,7 +6,9 @@
 }
 
 .SinglePost--BackButton {
-  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  color: #d0d1d3;
   position: relative;
   display: flex;
   align-items: center;
@@ -27,7 +29,8 @@
 }
 
 .SinglePost--Content {
-  background: white;
+  background: #d0d1d3;
+  color: #1a2831;
   margin-top: 30rem;
   padding: 8rem 8rem 4rem 8rem;
 }

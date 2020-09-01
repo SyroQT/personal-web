@@ -1,8 +1,5 @@
-.Hamburger {
-  display: none;
-}
-@media (max-width: 500px) {
-  .DrawerToggle {
+@media (max-width: 650px) {
+  .LinkList {
     display: none;
   }
 }

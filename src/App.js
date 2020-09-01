@@ -34,13 +34,6 @@ const RouteWithMeta = ({ component: Component, ...props }) => (
 const App = () => {
   //State
   const [data] = useState(OGdata)
-  const [isMenuOpen, setIsMenuOpen] = useState(false)
-
-  //Handlers
-  const menuClickHandler = () => {
-    console.log(isMenuOpen)
-    setIsMenuOpen(!isMenuOpen)
-  }
 
   const getDocument = (collection, name) =>
     data[collection] && data[collection].filter((page) => page.name === name)[0]
@@ -83,7 +76,7 @@ const App = () => {
           }
         />
 
-        <Nav menu={isMenuOpen} clickHandler={menuClickHandler} />
+        <Nav />
 
         <Switch>
           <RouteWithMeta

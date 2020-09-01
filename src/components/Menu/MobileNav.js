@@ -1,18 +1,12 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
-import Logo from '../Logo'
 import NavLink from '../NavLink'
-import NavMenu from './NavMenu'
 import '../Nav.css'
-import classes from './LinkList.module.css'
+import classes from './MobileNav.module.css'
 
-export default ({ isOpen, click }) => (
+export default ({ click }) => (
   <React.Fragment>
-    <div className={'Nav--Container container '.concat(classes.LinkList)}>
-      <Link to="/">
-        <Logo />
-      </Link>
+    <div className={classes.Mobile} onClick={click}>
       <NavLink to="/" exact>
         Home
       </NavLink>

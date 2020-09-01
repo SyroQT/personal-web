@@ -1,4 +1,4 @@
-.DrawerToggle {
+.LinkList {
   width: 40px;
   height: 100%;
   display: flex;
@@ -10,9 +10,11 @@
   cursor: pointer;
 }
 
-.DrawerToggle div {
-  width: 90%;
-  height: 5px;
-  margin: 2px;
-  background-color: purple;
+@media (max-width: 650px) {
+  .DrawerToggle div {
+    width: 30px;
+    height: 5px;
+    margin: 2px;
+    background-color: #802558;
+  }
 }

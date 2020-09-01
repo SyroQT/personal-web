@@ -1,17 +1,25 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 import LinkList from './Menu/LinkList'
 import NavMenu from './Menu/NavMenu'
-import Backdrop from './Menu/Backdrop'
+import MobileNav from './Menu/MobileNav'
 import './Nav.css'
 
-export default ({ isMenuOpen, clickHandler }) => {
+export default () => {
+  const [isMenuOpen, setIsMenuOpen] = useState(false)
+
+  const menu = isMenuOpen ? (
+    <MobileNav click={() => setIsMenuOpen(false)} />
+  ) : (
+    <LinkList />
+  )
+
   return (
     <nav className="Nav">
       {/* For mobile */}
-      <NavMenu />
-      {/* For desktop */}
-      <LinkList click={clickHandler} />
+      <NavMenu clicked={() => setIsMenuOpen(!isMenuOpen)} />
+
+      {menu}
     </nav>
   )
 }
