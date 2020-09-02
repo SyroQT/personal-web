@@ -1,10 +1,11 @@
 ---
-title: Hello World!
+title: Welcome
 featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is my personal website!
+subtitle: |
+  to Titas SyroQT Janusonis personal website. 
 meta:
   title: ""
 ---
 
-# Title
-Some text 
+# Here you will find
+- Some text 
