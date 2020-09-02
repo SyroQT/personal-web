@@ -1,5 +1,5 @@
 ---
 title: Blog'as 500
-featuredImage: /images/uploads/ng-32703.jpg
+featuredImage: /images/uploads/typewritter.jpg
 subtitle: Šauni citata apie gyvenimą
 ---
