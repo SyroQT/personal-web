@@ -5,5 +5,5 @@ subtitle: >-
   Mano blogai kaip VBE pupos - pakankamai trumpi, kad neatsibostų skaityti ir
   pakankamai ilgi, kad nepabostų rašyti. 
 
-  500 žodžių mano gyvenimo saldainiai.
+  500-ų žodžių mano gyvenimo saldainiai.
 ---
