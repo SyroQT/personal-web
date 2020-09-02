@@ -1,32 +1,28 @@
 ---
-title: Tutoring page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+title: Akademinė pagalba
+featuredImage: /images/uploads/ruler.jpg
+subtitle: Galiu būti jūsų matematikos arba/ir IT korepetitorius.
+section1: >-
+  # Kodėl aš?
 
-  Netlify CMS works with both `.md` and `.json`.
+  - Esu ką tik baigęs mokyklą todėl puikiai išmanau programą ir jos reikalavimus: ko, kaip ir kiek reikia mokytis. 
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
+  - Gimnazijoje aktyviai padėjau mokytis savo klasiokams ir draugams - suprantu, kaip reikia išugdyti gilų dalyko supratimą.
 
-  [Link test](/images/uploads/isabella juskova.jpg)
+  - Mokau ne formulių ar "kalimo" technikų, o gilaus dalyko supratimo, kad ir naujuose, nematytose situacijose mokinys gebėtų sugalvoti sprendimo planą.
 
-  ### Embed Test
+  - Laisvu laiku mokiausi papildomai tiek matematikos, tiek informatikos. Tad galėsiu perduoti savo savarankiško mokymosi patirtį, kad ateityje mokinys galėtų mokytis savarankiškai ir pats.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  # Kodėl verta? 
 
-section2: |-
-  ## This is a Container component
+  - Studijuoju informatiką todėl esu nuoširdžiai užsidegęs mokyti tiksliųjų mokslų.
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-  Dictumst a ultrices mi a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit scelerisque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  - Esu studentas todėl mano kainos yra pigesnės už mokytojus korepetitorius.
 
-  The image below will have a `srcset` attribute generated:
+  - Pamokos vyksta individualiai todėl visas dėmesys skiriamas tik vienam mokiniui.
 
-  ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
+  # Sudomino? Turite daugiau klausimų?
+
+  Nueikite į "Contact" skiltį ir parašykite man žinutę. 
+section2: " "
 ---
