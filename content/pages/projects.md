@@ -1,5 +1,7 @@
 ---
 title: My projects
-featuredImage: /images/uploads/unsplash4.jpg
-subtitle: All of my free time
+featuredImage: /images/uploads/coding.jpg
+subtitle: |-
+  “Find what you love and let it kill you.”
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I did
 ---

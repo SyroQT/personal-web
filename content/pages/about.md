@@ -1,32 +1,41 @@
 ---
-title: About page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+title: About Me
+featuredImage: /images/uploads/unsplash4.jpg
+section1: >
+  
+  # Some info about me
 
-  Netlify CMS works with both `.md` and `.json`.
+  I am Titas Janusonis also known as SyroQT. Currently I am studying Computer Science in the north of UK. 
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
+  I was born and raised in the capital of Lithuania - Vilnius. I fell in love with this city and I am planning to go back there after my studies.
 
-  [Link test](/images/uploads/isabella juskova.jpg)
+  Some of my hobbies include:
 
-  ### Embed Test
+  - Photography 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  - Philosophy 
 
-section2: |-
-  ## This is a Container component
+  - Reading 
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-  Dictumst a ultrices mi a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit scelerisque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  - Economics
 
-  The image below will have a `srcset` attribute generated:
+  - Psychology
+section2: >-
+  ## Some of my bigger passions
 
-  ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
+  ### Coding and Programming
+
+  Well it should be obvious from my choice of study that I love them. 
+
+  Writing code allows me to express my imagination. As I am quite a logical thinker this is the best way to spend my time meaningfully. 
+
+  ### Writing 
+
+  Similar to the last point. I love to writing more creatively when I am not feeling or am tired from pure logical mindset. This is a perfect way to switch up my hobbies and get some rest. 
+
+  ### Coffee 
+
+  This is my choice of drug and I am happy that it is legal. Coffee is so much more then a drink in the morning for me. 
+
+  It is a whole culture. There are so many ways to prepare a cup of coffee... So many variants of the beans... Do not forget the experience of sitting for hours and hours with friends next to a coffee cup...
 ---
