@@ -6,7 +6,6 @@ import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Home from './views/Home'
 import About from './views/About'
-import Tutoring from './views/Tutoring'
 import Blog from './views/Blog'
 import Projects from './views/Projects'
 import SinglePost from './views/SinglePost'
@@ -105,12 +104,6 @@ const App = () => {
             component={Blog}
             fields={getDocument('pages', 'blog')}
             posts={posts}
-          />
-          <RouteWithMeta
-            path="/tutoring/"
-            exact
-            component={Tutoring}
-            fields={getDocument('pages', 'tutoring')}
           />
           <RouteWithMeta
             path="/projects/"
