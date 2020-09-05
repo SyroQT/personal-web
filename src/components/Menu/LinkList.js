@@ -21,9 +21,6 @@ export default ({ isOpen, click }) => (
       <NavLink to="/blog/" exact>
         Blog'as 500
       </NavLink>
-      <NavLink to="/tutoring/" exact>
-        Akademinė pagalba
-      </NavLink>
       <NavLink to="/about/" exact>
         About
       </NavLink>
