@@ -1,18 +1,9 @@
 ---
 title: Contact Me
 featuredImage: /images/uploads/mark-chang-74-3.jpg
-subtitle: In case any question arises
+subtitle: ""
 address: Vilnius Lithuania
 phone: ""
 email: titas.januson@gmail.com
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-* the form action is set to the current absolute url: `action: '/contact/'`
-* a name attribute is sent with the form's data `'form-name': 'Contact'`
-* netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# Feel free to leave me a message
