@@ -2,40 +2,49 @@
 title: About Me
 featuredImage: /images/uploads/unsplash4.jpg
 section1: >
-  
-  # Some info about me
+  # I am Titas Janusonis also known as SyroQT.
 
-  I am Titas Janusonis also known as SyroQT. Currently I am studying Computer Science in the north of UK. 
+  ## My coding literacy
 
-  I was born and raised in the capital of Lithuania - Vilnius. I fell in love with this city and I am planning to go back there after my studies.
+  ### Languages
 
-  Some of my hobbies include:
+  - I started with C++ as it was required in school and it was my first language. 
 
-  - Photography 
+  - Then during CS50 course I learned some C and some Python.
 
-  - Philosophy 
+  - I continued learning Python on my own while coding projects.
 
-  - Reading 
+  - When web development cough my attention I learned JavaSript on my free time.
 
-  - Economics
 
-  - Psychology
-section2: >-
   ## Some of my bigger passions
 
   ### Coding and Programming
 
-  Well it should be obvious from my choice of study that I love them. 
+  Well it should be obvious from my choice of study that I love it. 
 
-  Writing code allows me to express my imagination. As I am quite a logical thinker this is the best way to spend my time meaningfully. 
+  The ability to write and understand code for me is math manifestation in the physical world. This is the idea which drives me to learn and understand more each day.
 
   ### Writing 
 
-  Similar to the last point. I love to writing more creatively when I am not feeling or am tired from pure logical mindset. This is a perfect way to switch up my hobbies and get some rest. 
+  I love to express my feelings and ideas more creatively whenever I get the chance. This passion of mine lets me to get some rest from pure logical nature of programming. 
 
   ### Coffee 
 
-  This is my choice of drug and I am happy that it is legal. Coffee is so much more then a drink in the morning for me. 
+  This is my choice of drug and I am happy that it is legal. Coffee is so much more then a drink in the morning for me. It is a sacred morning ritual. It is a way to relax, to find new connections.
+section2: >-2
+   # This is what I am doing right now
+  Currently I am studying Computer Science in Newcastle UK.
 
-  It is a whole culture. There are so many ways to prepare a cup of coffee... So many variants of the beans... Do not forget the experience of sitting for hours and hours with friends next to a coffee cup...
+  I was born and raised in the capital of Lithuania - Vilnius. I fell in love with this city and I am planning to go back there after my studies.
+
+  Some of my hobbies are:
+
+  - Photography 
+
+  - Philosophy
+
+  - Economics
+
+  - Psychology
 ---
