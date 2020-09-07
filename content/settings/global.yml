@@ -1,9 +1,9 @@
 siteTitle: "SyroDev "
 siteUrl: https://netlify-cms-react-starter.netlify.com
-siteDescription: Personal website for Titas SyroQT Janušonis
+siteDescription: Personal blog and website for Titas SyroQT Janušonis
 socialMediaCard:
-  image: /images/uploads/card-og.png
-  twitterCreatorAccount: "@Jinksi"
+  image: /images/uploads/katedraa-tiny.jpg
+  twitterCreatorAccount: ""
   twitterSiteAccount: ""
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
 enableServiceWorker: false
