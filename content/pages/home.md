@@ -1,11 +1,12 @@
 ---
-title: Welcome
+title: Less is More
 featuredImage: /images/uploads/katedraa-tiny.jpg
 subtitle: |
-  to Titas SyroQT Janusonis personal website. 
+  Titas {SyroQT} Janusonis website & blog 
 meta:
   title: ""
 ---
 
-# Here you will find
-- Some text 
+# This is a place where I
+- write my blog about studying and living in the UK  
+- put all of my free time project details in one place
