@@ -1,6 +1,6 @@
 ---
 title: Welcome
-featuredImage: /images/uploads/isabella juskova.jpg
+featuredImage: /images/uploads/katedraa-tiny.jpg
 subtitle: |
   to Titas SyroQT Janusonis personal website. 
 meta:
