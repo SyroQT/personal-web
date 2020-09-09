@@ -6,7 +6,4 @@ subtitle: |
 meta:
   title: ""
 ---
-
-# This is a place where I
-- write my blog about studying and living in the UK  
-- put all of my free time project details in one place
+#
