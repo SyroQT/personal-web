@@ -7,7 +7,7 @@ import './Home.css'
 export default ({ fields }) => {
   const { title, subtitle, featuredImage, body } = fields
   return (
-    <main className='Home'>
+    <main className="Home">
       <PageHeader
         large
         title={title}
@@ -15,8 +15,8 @@ export default ({ fields }) => {
         backgroundImage={featuredImage}
       />
 
-      <div className='section'>
-        <div className='container'>
+      <div className="section">
+        <div className="container">
           <Content source={body} />
         </div>
       </div>
