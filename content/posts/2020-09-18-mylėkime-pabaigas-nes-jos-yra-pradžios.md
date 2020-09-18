@@ -11,8 +11,6 @@ excerpt: >
   blogiuką.
 categories: []
 ---
-<!--StartFragment-->
-
 Šie Liūdnų slibinų dainos žodžiai mane lydėjo visus abitūros metus. Ir šimtadienio, ir egzaminų sesijos bei išleistuvių vakaro metu susimąstydavau apie juos. Tam, kad mokyklos baigimas tikrai būtų ko nors pradžia, sugalvojau pagaliau (po visų metų planavimo) susikurti savo tinklapį ir pradėti savo blogiuką.
 
 Mokyklos baigimas tikrai buvo vienas ryškiausių šios vasaros (tikiuosi, kad ir mano gyvenimo) įvykių. Tad turėdamas minutėlę laisvo laiko „Rimi“ parduotuvės eilėse ar troleibusuose, kurie gaminti dar Čekoslovakijoje, savęs klausdavau: „Titai, kaip jautiesi baigęs mokyklą?“. Diskusijos su savimi dažniausias susitarimas budavo: „Nežinau ir nežinau, kaip galėčiau sužinoti“. Panašiu sutrikimo vėjeliu dvelkė ir visi pokalbiai su bendraamžiais. Tas vėjelis atnešė išvadą, jog tokia jau ta jauno žmogaus dalia – mokaisi 12-a metų visokiausių matematikos daugybų, anglų laikų, literatūros srovių, o išėjęs į pasaulį jautiesi tuščiai. Na gal žodis „tuščias“ blogai nusako esmę, ne tuščiai, o „gimus iš naujo“ ir į šį naują gyvenimą atsineši visas savo išmoktas pamokas ir patirtas patirtis. Tu žiūri į šį naują, netgi drįsčiau pavadinti, absurdišką gyvenimą, ir bandai visais tau žinomais būdais jį suprasti: iš vienos pusės knibinėji pagaliuku, iš kitos bandai pritaikyti liestinės lygtį, bet niekaip negali rasti to susikirtimo taško. Taško tarp tavo regimo ir suvokiamo pasaulių funkcijų. Tokia ir bus šio tinklaraščio paskirtis: chronologine tvarka išsaugotos mintys apie mano gyvenimo pamokas ir patirtis, kurios, labai tikiuosi, bus naudingos ir įdomios ne tik ateities man, bet ir dabarties jums.
