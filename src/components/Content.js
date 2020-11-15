@@ -39,13 +39,18 @@ const HtmlBlock = ({ value }) => {
   )
 }
 
+const LinkRenderer = (props) => (
+  <a href={props.href} target="_blank" rel="noopener noreferrer">{props.children}</a>
+)
+
 const Content = ({ source, src, className = '' }) => (
   <Marked
     className={`Content ${className}`}
     source={encodeMarkdownURIs(source || src)}
     renderers={{
       image: ImageWithSrcset,
-      html: HtmlBlock
+      html: HtmlBlock,
+      link: LinkRenderer
     }}
   />
 )
