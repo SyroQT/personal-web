@@ -80,6 +80,9 @@
   text-decoration: none;
 }
 
-.SinglePost--Pagination--Link.next {
+.SinglePost--Pagination--Link.prev {
   margin-left: auto;
+}
+.SinglePost--Pagination--Link.next {
+  margin-right: auto;
 }

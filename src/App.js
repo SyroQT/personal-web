@@ -2,6 +2,8 @@ import React, { Fragment, useState } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
 
+import _sortBy from 'lodash/sortBy'
+
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Home from './views/Home'
@@ -48,10 +50,13 @@ const App = () => {
     headerScripts,
   } = globalSettings
 
-  const posts = getDocuments('posts').filter((post) => post.status !== 'Draft')
-  const projects = getDocuments('projects').filter(
+  const importPosts = getDocuments('posts').filter((post) => post.status !== 'Draft')
+  const importProjects = getDocuments('projects').filter(
     (project) => project.status !== 'Draft'
   )
+  const projects = _sortBy(importProjects, ['date']).reverse()
+
+  const posts = _sortBy(importPosts, ['date']).reverse()
 
   return (
     <Router>
