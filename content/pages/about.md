@@ -41,7 +41,7 @@ section1: >-
   ### Coffee
 
 
-  This is my drug of choice and I am happy that it is legal. Coffee is so much more then a morning drink for me. It is a sacred morning ritual. It is a way to relax, to find new connections.
+  This is my drug of choice and I am happy that it is legal. Coffee is so much more than a morning drink for me. It is a sacred morning ritual. It is a way to relax, to find new connections.
 section2: >-
   # This is what I am doing right now
 
