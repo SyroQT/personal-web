@@ -22,5 +22,5 @@ Klausau lietuviškos muzikos, pasikabinau Lietuvos vėliavą kambaryje, žiūrė
 Lietuvis – anglas, kepta jautiena – „bomžpakis“, išsiskalbti rūbus – smirdėti. Tai tik maža dalis išbandymų mano Odisėjos kelionės pradžioje. Žinau, kad atskridau į savo mirtį (tikėkimės, tik perkeltine prasme) ir gal šis suvokimas mane išgelbės nuo Žiogo likimo. Tokioje situacijoje, kai drakonas tave kepina iš visų įmanomų pusių, nelieka daug pasirinkimų. Kovoji, bėgi arba sustingsti (Fight, Flight, or Freeze). Ir nors aš beprotiškai bijau, aš protiškai labai noriu.
 
 ***
-"Now, here, you see, it takes all the running you can do, to keep in the same place.”
+>"Now, here, you see, it takes all the running you can do, to keep in the same place.”
 Lewis Carroll
