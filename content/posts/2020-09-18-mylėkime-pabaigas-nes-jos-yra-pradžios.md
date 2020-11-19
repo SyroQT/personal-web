@@ -21,5 +21,6 @@ Dalyvavau tokioj kūrybingumo mokykloje, kurią veda Kristupas Sabolius ir Tomas
 
 Pagaliau mano sugalvotas rašymo planas leidžia pasidalinti savo gyvenimo nuotrupomis. Nuo spalio pradėsiu mokytis Newcastle University Computer Science. Universitetas yra Anglijos šiaurėje, o studijų programą vadinu ”informatika“, nes tariant „kompiuterių mokslas“ jaučiuosi nemaloniai. Panašų jausmą jaučiu žodį „telefonas“ pakeisdamas į „tapšnoklis“, nerekomenduoju. Jausčiau tik menką diskomfortą dėl važiavimo į užsienį, tačiau turime pasaulinę pandemiją, kuri dalykų tikrai nelengvina. Negana to, mano universitetą nulaužė ir blogi berniukai galimai turi mano duomenis, kurie gali atsidurti dark web‘e. Tai esu ne tik studentas, amžiaus pandemijos liudininkas, bet ir XXI a. įkaitas, išties, naujų pradžių metai. Beje, ar minėjau, kad į universitetą važiuoju mokytis “informatikos“? Dėl tokių gyvenimo peripetijų jaučiu didesnį diskomfortą nei man būtų įprasta. Tačiau paklausiu savęs „ką aš galiu padaryti dėl visos šitos suirutės“ ir geriausią atsakymą randu amerikiečių teologo Reinhold‘o Niebuhr‘o: „Dieve, suteik man ramybės susitaikyti su tuo, ko negaliu pakeisti; drąsos keisti, ką galiu pakeisti, ir išminties tą skirtumą suprasti.“
 
-“Mylėkime pabaigas, pabaigas nes jos yra pradžios tik pradžios
+---
+>“Mylėkime pabaigas, pabaigas nes jos yra pradžios tik pradžios
 Deja to nežinom pamirštam mes ir jos mums atrodo negražios”
