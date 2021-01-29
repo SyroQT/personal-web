@@ -24,4 +24,6 @@ Vienas iš būdų spręsti sudėtingas problemas yra dinaminis programavimas. Jo
 
 Šaltos logikos tiesmukas taikymas galbūt ir yra gražiausias kiekviename žingsnyje, kai pasirenkamas “logiškas” sprendimas paskaityti naujienas stovint eilėje, o ne “tuščiai” prastoviniuoti. Tačiau gyvenimo gražiausia mozaika gimsta žvelgiant į didesnį paveikslą, kai prisimenam pabūti mirtingi žmonės, kurie šiuo momentu tiesiog neturim ką veikti. Nuo tokių momentų nevalia bėgti, nes bėgam nuo savo žmogiškumo, o spengimas ausyse turbūt jau bus nebe žadintuvas, o tinitas nuo loginio triukšmo.
 
-> Reason is the slave of passion - Hume
+> “Reason is the slave of passion”
+>
+> \- Hume
