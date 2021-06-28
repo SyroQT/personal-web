@@ -28,6 +28,8 @@ Atėjau, pamačiau, užmiršau – taip galėčiau apibūdinti savo amžininkus.
 
 
 Prisiminti, neverta užmiršti. Kur kablelį dėsi tu?
+
+
 ---
 > “If snow melts down to water, does it still remember being snow?”
 –Jennifer McMahon
