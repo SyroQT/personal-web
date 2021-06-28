@@ -2,7 +2,7 @@
 title: Mylėkime pabaigas, nes jos yra pradžios
 status: Published
 date: 2020-09-18T12:55:04.410Z
-postFeaturedImage: /images/uploads/katedraa-tiny.jpg
+postFeaturedImage: /images/uploads/old.jpg
 excerpt: >
   Šie Liūdnų slibinų dainos žodžiai mane lydėjo visus abitūros metus. Ir
   šimtadienio, ir egzaminų sesijos bei išleistuvių vakaro metu susimąstydavau
