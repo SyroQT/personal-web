@@ -10,6 +10,7 @@ excerpt: "Prieš maždaug metus pradėjus, bet nepabaigus šitos pupos mane
   – kaip atrodys tas „tikras pasaulis“ į kurį išeinu, koks bus jo skonis. Taip
   pat smegenų kamputy knietėjo klausimai: kiek mokyklos suolo pamokos padės man
   gyventi ir būti žmogumi, ko mokykla dar neišmokė, ko ji išmokyti negalėjo."
+categories: []
 ---
 Prieš maždaug metus pradėjus, bet nepabaigus šitos pupos mane pasiglemžė gyvenimas. Tačiau pradėjęs dygti daigas vis dar tiek pat (jei ne daugiau) aktualus man ir dabar. Prieš maždaug dvejus metus rašiau valstybinius brandos egzaminus, geriau žinomus kaip VBE. Baigiant mokyklą buvo įdomu/smalsu – kaip atrodys tas „tikras pasaulis“ į kurį išeinu, koks bus jo skonis. Taip pat smegenų kamputy knietėjo klausimai: kiek mokyklos suolo pamokos padės man gyventi ir būti žmogumi, ko mokykla dar neišmokė, ko ji išmokyti negalėjo. Na ir štai, prabėgo dveji metai. Neskaičiuoti, bet tikrai gerai išjausti. Dveji metai – čia daug ar nedaug to laiko? Tai 9% mano gyvenimo ir dar neteko susidurti su tuo „tikru gyvenimu“. Priešakyje, kaip ir stovėjo, taip vis dar stovi ta ateities baimė ir neapibrėžtumas. Tik jų atspalviai kiek kitokie. Tad išvada tokia – visas gyvenimas yra „tikras“. Visi jo etapai, kad ir kokie nuobodūs ar monotoniški, yra vienodai lygūs, vertingi ir, ko gero svarbiausia –  gražūs.
 
@@ -23,5 +24,7 @@ Literatūra – jausmų ir išgyvenimų tyrinėjimas. Ah, ta literatūra... Vien
 
 Kai mokaisi, išmoksti tik tiek, kiek tau pačiam reikia. Tad jei sakai, jog trikampių nereik, jų tau ir netrūks. Grąžą susiskaičiuosi ir nesupratęs ekonomikos dėsnių, o tiktok‘as dažniausiai stimuliuos daugiau nei knyga. Visada galima praeiti gatvę ir jos nepamatyti. Tačiau save pagavus momente ta gatvė gali tapti vienu gražiausių vasaros akimirkų. Nes Gyvenimas yra būtent ten, kur atiduodi visa save.
 
->﻿"Sustok, akimirka žavinga!"
--﻿ J. V. Gėtė
+- - -
+
+> ﻿"Sustok, akimirka žavinga!"
+> -﻿ J. V. Gėtė
