@@ -23,6 +23,5 @@ Literatūra – jausmų ir išgyvenimų tyrinėjimas. Ah, ta literatūra... Vien
 
 Kai mokaisi, išmoksti tik tiek, kiek tau pačiam reikia. Tad jei sakai, jog trikampių nereik, jų tau ir netrūks. Grąžą susiskaičiuosi ir nesupratęs ekonomikos dėsnių, o tiktok‘as dažniausiai stimuliuos daugiau nei knyga. Visada galima praeiti gatvę ir jos nepamatyti. Tačiau save pagavus momente ta gatvė gali tapti vienu gražiausių vasaros akimirkų. Nes Gyvenimas yra būtent ten, kur atiduodi visa save.
 
--﻿--
 >﻿"Sustok, akimirka žavinga!"
 -﻿ J. V. Gėtė
