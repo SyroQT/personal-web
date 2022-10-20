@@ -2,7 +2,7 @@
 title: Ar meme’as gali paveikti tikrovę?
 status: Published
 date: 2022-10-20T16:47:06.844Z
-postFeaturedImage: /images/uploads/vasara-1-of-1-.jpg
+postFeaturedImage: /images/uploads/vasara-1-of-1-copy.jpeg
 excerpt: "Prieš maždaug metus pradėjus, bet nepabaigus šitos pupos mane
   pasiglemžė gyvenimas. Tačiau pradėjęs dygti daigas vis dar tiek pat (jei ne
   daugiau) aktualus man ir dabar. Prieš maždaug dvejus metus rašiau valstybinius
@@ -22,3 +22,7 @@ Ekonomika – turiu nedaug, o noriu visko. Nors mokesčiai už neaiškius dalyku
 Literatūra – jausmų ir išgyvenimų tyrinėjimas. Ah, ta literatūra... Vienas geriausių patarimų, kurį esu gavęs – literatūrą reikia išjausti. Gi kurdamas menininkas kuria apie tai, kas jam yra svarbu ir vertinga. Jausti tai, ką jautė autorius, yra tikra kelionė laiku. Kokia vertinga gali būti ta kelionė! Žinoti, kad tu nesi vienas toks keistas. Vasarą pradėjau svarstyti, kiek svarbus yra mokslas ir koks pasaulis yra pažinus – galiu skirti 10 savo gyvenimo metų ir mokėti beveik viską, kas žinoma apie kompiuterius. Tačiau ar verta? Prisiminiau Gėtės Faustą, kuris svarstė tą patį klausimą, jautė tą pačią emociją, ir susigraudinau. Jei ne literatūra, kaip tada man išjausti?
 
 Kai mokaisi, išmoksti tik tiek, kiek tau pačiam reikia. Tad jei sakai, jog trikampių nereik, jų tau ir netrūks. Grąžą susiskaičiuosi ir nesupratęs ekonomikos dėsnių, o tiktok‘as dažniausiai stimuliuos daugiau nei knyga. Visada galima praeiti gatvę ir jos nepamatyti. Tačiau save pagavus momente ta gatvė gali tapti vienu gražiausių vasaros akimirkų. Nes Gyvenimas yra būtent ten, kur atiduodi visa save.
+
+-﻿--
+>﻿"Sustok, akimirka žavinga!"
+-﻿ J. V. Gėtė
